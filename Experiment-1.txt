@@ -1,0 +1,13 @@
+Objective: Introduction to popular machine learning Toolkits such as:
+
+1.Numpy: Numpy is a Python library used for performing mathematical & logical operations on large multi dimensional arrays & matrices.
+
+2.Pandas: Pandas is used for data manipulation & analysis. It provides 2 main data structures:
+  a) DataFrame
+  b) Series
+
+3. Scikit-learn: Scikit-learn is a simple & efficient machine learning library for Python. It supports classification, regression, clustering & model evaluation.
+
+4. TensorFlow: TensorFlow is a powerful open-source framework by Google for deep learning & large-scale machine learning tasks.
+
+5. Keras: Keras is a high-level API built on top of TensorFlow. It’s beginner-friendly & allows quick prototyping.

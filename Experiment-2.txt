@@ -1,0 +1,11 @@
+Objective: Introduction to Streamlit for machine learning applications
+
+Streamlit: Streamlit is an open-source Python framework that transforms data scripts into shareable web applications with minimal effort. For machine learning practitioners, it provides an intuitive way to create interactive dashboards, model demos, & data visualization tools without requiring extensive web development knowledge.
+
+Why use Streamlit for ML applications?
+
+Rapid Prototyping: Build interactive ML demos in minutes, not hours.
+
+Easy Deployment: Share your models with stakeholders through simple web interfaces.
+
+Interactive Widgets: Create sliders, buttons & input fields for model parameters.
